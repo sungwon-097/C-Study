@@ -4,3 +4,4 @@ project(C__Study)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(reference.cpp reference.h)
+
